@@ -9,7 +9,7 @@
       "precio_lista": 899,
       "precio_venta": 809,
       "promocion_activa": true,
-      "descripcion_oferta": "¡Aprovecha nuestro descuento por El Buen Fin! Válido durante todo el mes de Noviembre."
+      "descripcion_oferta": "¡Aprovecha nuestro descuento por Apertura! Vigente del 1 al 8 de Noviembre."
     },
     {
       "sku": "IDL7-19L",
@@ -17,39 +17,39 @@
       "precio_lista": 799,
       "precio_venta": 719,
       "promocion_activa": true,
-      "descripcion_oferta": "¡Aprovecha nuestro descuento por El Buen Fin! Válido durante todo el mes de Noviembre."
+      "descripcion_oferta": "¡Aprovecha nuestro descuento por Apertura! Vigente del 1 al 8 de Noviembre."
     },
     {
       "sku": "SELLA-1L",
       "nombre_producto": "SELLADOR SELLAPLUS EX (Garrafa 1L)",
       "precio_lista": 199,
-      "precio_venta": 199,
+      "precio_venta": 179,
       "promocion_activa": false,
-      "descripcion_oferta": ""
+      "descripcion_oferta": "¡Aprovecha nuestro descuento por El Buen Fin! Válido del 10 al 17 de Noviembre."
     },
     {
       "sku": "RESAN-1L",
       "nombre_producto": "RESANADOR RS-MAX (Envase 1L)",
       "precio_lista": 199,
-      "precio_venta": 199,
+      "precio_venta": 179,
       "promocion_activa": false,
-      "descripcion_oferta": ""
+      "descripcion_oferta": "¡Aprovecha nuestro descuento por El Buen Fin! Válido del 10 al 17 de Noviembre."
     },
     {
       "sku": "PINLIDER-19L",
       "nombre_producto": "PINTURA LIDERPINT (Cubeta 19L)",
-      "precio_lista": 747,
-      "precio_venta": 747,
+      "precio_lista": 750,
+      "precio_venta": 675,
       "promocion_activa": false,
-      "descripcion_oferta": ""
+      "descripcion_oferta": "¡Aprovecha nuestro descuento por El Buen Fin! Válido del 10 al 17 de Noviembre."
     },
     {
       "sku": "PINOLY-19L",
       "nombre_producto": "PINTURA OLYMPUS 300 (Cubeta 19L)",
       "precio_lista": 1780,
-      "precio_venta": 1780,
+      "precio_venta": 1602,
       "promocion_activa": false,
-      "descripcion_oferta": ""
+      "descripcion_oferta": "¡Aprovecha nuestro descuento por El Buen Fin! Válido del 10 al 17 de Noviembre."
     }
   ]
 }
